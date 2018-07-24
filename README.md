@@ -45,3 +45,9 @@ Ready to start practicing machine learning?
 Learn and apply fundamental machine learning concepts with the Crash Course, get real-world experience with the companion Kaggle competition, or visit Learn with Google AI to explore the full library of training resources.
 
 START CRASH COURSE LEARN WITH GOOGLE AI
+
+https://ai.google/education
+
+https://developers.google.com/machine-learning/crash-course/ml-intro
+
+https://developers.google.com/machine-learning/crash-course/
